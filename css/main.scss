@@ -1,44 +1,60 @@
 ---
 ---
+@import "uno";
+@import "tables";
+@import "monokai";
+@import "timeline";
 
-@charset "utf-8";
+/* Modifications */
 
-// Example Defaults
-// $base-font-family: Helvetica, Arial, sans-serif;
-// $base-font-size:   16px;
-// $small-font-size:  $base-font-size * 0.875;
-// $base-line-height: 1.5;
+pre.highlight,
+.highlight pre {
+  padding: 10px;
+}
 
-// $spacing-unit:     30px;
+pre.highlight code,
+.highlight pre code {
+  white-space: pre-wrap;
+}
 
-// $text-color:       #111;
-// $background-color: #fdfdfd;
-// $brand-color:      #2a7ae2;
+.btn,
+.navigation__item a {
+  margin: 5px 0;
+  white-space: nowrap;
+}
 
-// $grey-color:       #828282;
-// $grey-color-light: lighten($grey-color, 40%);
-// $grey-color-dark:  darken($grey-color, 25%);
+.pagination__page-number {
+  display: inline-block;
+  padding: 10px;
+}
 
-// // Width of the content area
-// $content-width:    800px;
+.categories a,
+.tags a {
+  border: 1px solid #e25440;
+  border-radius: 20px;
+  color: #e25440;
+  display: inline-block;
+  font-size: 12px;
+  margin: 5px 0;
+  padding: 5px 10px;
+  text-shadow: none;
+  white-space: nowrap;
+}
 
-// $on-palm:          600px;
-// $on-laptop:        800px;
+.post-meta__tags {
+  font-size: 12px;
+  padding: 0 5px;
+}
 
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+.footer__copyright {
+    margin: 0 20px 10px;
+}
 
-// variables.less
-$theme-primary: #F05F40;
-$theme-dark: #222;
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "mixins",
-        "base"
-;
+.user-image {
+  margin-bottom: 1.2em;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border: 3px solid #fff;
+  border-radius:100%;
+}
