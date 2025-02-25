@@ -940,10 +940,9 @@ table tfoot td {
   margin: 0 0 40px;
   text-align: center;
 }
-
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
@@ -952,12 +951,12 @@ table tfoot td {
 }
 
 .about img {
-  width: 200%; /* Cambiato da 100% a auto */
-  height: 200%; /* Cambiato da 100% a auto */
-  max-width: 100%; /* Assicura che non superi il contenitore */
-  max-height: 100%; /* Assicura che non superi il contenitore */
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  width: 200px; /* Cambiato da 100% a auto */
+  height: 200px; /* Cambiato da 100% a auto */
+  object-fit: cover; /* Mantiene le proporzioni senza distorsioni */
+  margin-top: -20px; /* Sposta l'immagine verso l'alto di 10px */
+  -webkit-border-radius: 100%;
+          border-radius: 100%;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
