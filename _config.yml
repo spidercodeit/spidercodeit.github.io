@@ -1,8 +1,7 @@
 title: Hello, world! I'm SpiderCode
-description: > # this means to ignore newlines until "baseurl:"
-SpiderCode è lo spazio perfetto per gli appassionati di informatica, soprattutto per te che sei uno studente alle prime armi o per te che vuoi semplicemente rimanere aggiornato! Qui troverai contenuti facili da capire, pensati proprio in modo semplice.
-permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: SpiderCode è lo spazio perfetto per gli appassionati di informatica, soprattutto per te che sei uno studente alle prime armi o per te che vuoi semplicemente rimanere aggiornato! Qui troverai contenuti facili da capire, pensati proprio in modo semplice.
+permalink: ':title/'  # this means to ignore newlines until "baseurl:" 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spidercodeit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
