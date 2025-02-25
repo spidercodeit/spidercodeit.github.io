@@ -954,8 +954,8 @@ table tfoot td {
 .about img {
   width: 150px; /* Cambiato da 100% a auto */
   height: 150px; /* Cambiato da 100% a auto */
-  max-width: 150%; /* Assicura che non superi il contenitore */
-  max-height: 150%; /* Assicura che non superi il contenitore */
+  max-width: 100%; /* Assicura che non superi il contenitore */
+  max-height: 100%; /* Assicura che non superi il contenitore */
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
