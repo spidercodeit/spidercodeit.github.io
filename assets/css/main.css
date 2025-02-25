@@ -954,7 +954,6 @@ table tfoot td {
   width: 100%; /* Cambiato da 100% a auto */
   height: 100px; /* Cambiato da 100% a auto */
   object-fit: cover; /* Mantiene le proporzioni senza distorsioni */
-  margin-top: -20px; /* Sposta l'immagine verso l'alto di 10px */
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
