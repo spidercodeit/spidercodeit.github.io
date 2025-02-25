@@ -954,8 +954,8 @@ table tfoot td {
 .about img {
   width: 150%;
   height: 150%;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  -webkit-border-radius: 25%;
+          border-radius: 25%;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
