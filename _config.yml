@@ -1,5 +1,5 @@
 title: Hello, world! I'm SpiderCode
-description: SpiderCode è lo spazio perfetto per gli appassionati di informatica, soprattutto per te che sei uno studente alle prime armi o per te che vuoi semplicemente rimanere aggiornato!
+description: Con SpiderCode, ogni tutorial è una nuova avventura nel mondo digitale. Sei pronto? 
 permalink: ':title/'  # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spidercodeit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: SpiderCode # add your name
 author-img: logospider.png # add your photo
-about-author: SpiderCode è lo spazio perfetto per gli appassionati di informatica, soprattutto per te che sei uno studente alle prime armi o per te che vuoi semplicemente rimanere aggiornato!
+about-author: Con SpiderCode, ogni tutorial è una nuova avventura nel mondo digitale. Sei pronto? 
 social-twitter: # add your Twitter handle
 social-facebook: spidercodeit
 social-github: spidercodeit # add your Github handle
