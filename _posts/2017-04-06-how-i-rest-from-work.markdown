@@ -7,7 +7,6 @@ img: video.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Youtube, Hawaii]
 ---
-Video
 I nostri video sono il punto di partenza perfetto per immergerti nel mondo dell'informatica. Ogni video è pensato per essere chiaro, coinvolgente e facilmente comprensibile. Dalla programmazione di base ai concetti più avanzati, i nostri esperti ti guideranno passo passo. Ecco cosa troverai:
 
 * Introduzione alla Programmazione
