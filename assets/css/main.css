@@ -953,6 +953,7 @@ table tfoot td {
 .about img {
   width: 100%; /* Cambiato da 100% a auto */
   height: 100%; /* Cambiato da 100% a auto */
+  top: auto;
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
