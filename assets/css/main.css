@@ -941,8 +941,8 @@ table tfoot td {
   text-align: center;
 }
 .about .cover-author-image {
-  width: 150px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
@@ -951,8 +951,8 @@ table tfoot td {
 }
 
 .about img {
-  width: auto; /* Cambiato da 100% a auto */
-  height: auto; /* Cambiato da 100% a auto */
+  width: 100%; /* Cambiato da 100% a auto */
+  height: 100%; /* Cambiato da 100% a auto */
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
