@@ -18,6 +18,27 @@ La programmazione ti permetterà di scrivere codice in linguaggi come Python, Ja
 
 Ogni esercizio è pensato per essere progressivo: inizia con attività di base e avanza verso scenari più complessi. Man mano che risolvi questi problemi, svilupperai competenze pratiche che ti permetteranno di affrontare situazioni reali e crescere come professionista del settore tecnologico.
 
+# Titolo Argomenti
+
+    * Hexagon shoreditch beard
+    * Intelligentsia narwhal austin
+    * Literally meditation four
+    * Microdosing hoodie woke
+
+# Titolo Argomenti
+
+    * Hexagon shoreditch beard
+    * Intelligentsia narwhal austin
+    * Literally meditation four
+    * Microdosing hoodie woke
+
+# Titolo Argomenti
+
+    * Hexagon shoreditch beard
+    * Intelligentsia narwhal austin
+    * Literally meditation four
+    * Microdosing hoodie woke
+
 >Macte Animo! Affronta ogni sfida con coraggio e determinazione: più pratichi, più diventi esperto!
 
 
