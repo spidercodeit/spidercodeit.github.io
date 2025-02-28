@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Esercizi per gli studenti
-date: 2017-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+date: 2025-02-28 15:00:00 +0300
+description: Sei pronto a mettere in pratica ciò che hai imparato nel mondo della programmazione, delle reti e della cybersecurity? In questa sezione troverai esercizi pratici pensati per affinare le tue abilità, con sfide che coprono un ampio spettro di tematiche. # Add post description (optional)
 img: immagineesercizi.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---

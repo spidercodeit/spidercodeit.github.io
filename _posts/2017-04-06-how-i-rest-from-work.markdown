@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Video Tutorial
-date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+date: 2025-20-02 13:32:20 +0300
+description: I nostri video sono il punto di partenza perfetto per immergerti nel mondo dell'informatica. Ogni video è pensato per essere chiaro, coinvolgente e facilmente comprensibile.  # Add post description (optional)
 img: video.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Youtube, Hawaii]
