@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esercizi per gli studenti
-date: 2025-02-28 15:00:00 +0300
+date: 2025-02-20T13:32:20+03:00
 description: Sei pronto a mettere in pratica ciò che hai imparato nel mondo della programmazione, delle reti e della cybersecurity? In questa sezione troverai esercizi pratici pensati per affinare le tue abilità, con sfide che coprono un ampio spettro di tematiche. # Add post description (optional)
 img: immagineesercizi.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
