@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Tutorial
-date: 2025-02-02 13:32:20 +0300
+date: 2025-02-20T13:32:20+03:00
 description: I nostri video sono il punto di partenza perfetto per immergerti nel mondo dell'informatica. Ogni video è pensato per essere chiaro, coinvolgente e facilmente comprensibile.  # Add post description (optional)
 img: video.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
