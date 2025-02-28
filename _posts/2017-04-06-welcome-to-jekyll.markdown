@@ -7,8 +7,6 @@ img: hello.jpeg # Add image post (optional)
 ---
 Benvenuti su SpiderCode!
 
-Benvenuti su SpiderCode!
-
 Siamo felici di accogliervi in SpiderCode, la piattaforma che unisce il mondo della programmazione, delle reti e della cybersicurezza. Qui troverai un ambiente dinamico e stimolante dove potrai imparare, crescere e perfezionare le tue competenze in diverse aree tecnologiche.
 
 Che tu sia interessato a scrivere codice, configurare reti, o proteggere sistemi dalle minacce digitali, SpiderCode è il posto giusto per te. Offriamo corsi, tutorial e risorse pratiche per ogni livello, dai principianti agli esperti.
