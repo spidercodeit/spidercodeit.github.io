@@ -5,9 +5,19 @@ date: 2025-02-20T13:32:20+03:00
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: hello.jpeg # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Benvenuti su SpiderCode!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Benvenuti su SpiderCode!
+
+Siamo felici di accogliervi in SpiderCode, la piattaforma che unisce il mondo della programmazione, delle reti e della cybersicurezza. Qui troverai un ambiente dinamico e stimolante dove potrai imparare, crescere e perfezionare le tue competenze in diverse aree tecnologiche.
+
+Che tu sia interessato a scrivere codice, configurare reti, o proteggere sistemi dalle minacce digitali, SpiderCode è il posto giusto per te. Offriamo corsi, tutorial e risorse pratiche per ogni livello, dai principianti agli esperti.
+
+Unisciti alla nostra community, esplora il mondo delle tecnologie, e affronta le sfide di coding, reti e cybersicurezza con gli strumenti e il supporto giusto. SpiderCode è qui per aiutarti a costruire il futuro digitale, in sicurezza e innovazione.
+
+
+
+
 
 Jekyll also offers powerful support for code snippets:
 

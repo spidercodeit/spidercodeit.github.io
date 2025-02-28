@@ -2,13 +2,14 @@
 layout: post
 title: Chi siamo
 date: 2025-02-22T13:32:20+03:00
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Siamo un gruppo di docenti che ha deciso di fare il passo in più e di diventare un po' "influencer" nel mondo dell'istruzione! # Add post description (optional)
 img: docenti.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-Siamo un gruppo di docenti che ha deciso di fare il passo in più e di diventare un po' "influencer" nel mondo dell'istruzione! 🎓✨ Con il nostro amore per l'insegnamento, abbiamo scelto di mettere a disposizione dei nostri studenti (e di chiunque altro voglia imparare!) una parte del nostro sapere, ma sempre con un sorriso e tanta voglia di far divertire.
+Siamo un gruppo di docenti che ha deciso di fare il passo in più e di diventare un po' "influencer" nel mondo dell'istruzione! 🎓✨ 
+Con il nostro amore per l'insegnamento, abbiamo scelto di mettere a disposizione dei nostri studenti (e di chiunque altro voglia imparare!) una parte del nostro sapere, ma sempre con un sorriso e tanta voglia di far divertire.
 
 Ci piace pensare che il sapere debba essere condiviso in modo accessibile, allegro e coinvolgente, perché imparare non deve essere solo utile, ma anche divertente! 😄🎥 Che si tratti di tutorial, consigli pratici, o semplicemente riflessioni sulla vita accademica e non, vogliamo portare un po' di luce e motivazione nei vostri giorni.
 
