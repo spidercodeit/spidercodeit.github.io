@@ -956,6 +956,7 @@ table tfoot td {
   height: 200px; /* Cambiato da 100% a auto */
   max-width: 100%; /* Assicura che non superi il contenitore */
   max-height: 100%; /* Assicura che non superi il contenitore */
+  object-fit: cover; /* Assicura che l'immagine riempia il contenitore senza distorsioni */
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
