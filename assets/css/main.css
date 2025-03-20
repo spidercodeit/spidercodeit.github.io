@@ -952,7 +952,7 @@ table tfoot td {
 }
 
 .about img {
-  width: 200%; /* Cambiato da 100% a auto */
+  width: 300%; /* Cambiato da 100% a auto */
   height: 200%; /* Cambiato da 100% a auto */
   max-width: 100%; /* Assicura che non superi il contenitore */
   max-height: 100%; /* Assicura che non superi il contenitore */
