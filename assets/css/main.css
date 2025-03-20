@@ -955,7 +955,7 @@ table tfoot td {
   width: 300%; /* Cambiato da 100% a auto */
   height: 200%; /* Cambiato da 100% a auto */
   max-width: 0; /* Assicura che non superi il contenitore */
-  max-height: 100%; /* Assicura che non superi il contenitore */
+  max-height: 0%; /* Assicura che non superi il contenitore */
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
