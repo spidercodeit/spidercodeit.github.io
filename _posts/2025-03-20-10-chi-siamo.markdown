@@ -5,11 +5,8 @@ date: 2025-03-20 00:00:00 +0300
 description: Siamo un gruppo di docenti appassionati e motivati, uniti dalla volontà di trasformare l'approccio tradizionale all'insegnamento in un'esperienza coinvolgente, stimolante e, soprattutto, divertente. # Add post description (optional)
 img: docenti.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Chi siamo, Docenti] # add tag
 ---
-
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
-
 
 **Chi siamo**
 
@@ -17,6 +14,9 @@ Siamo un gruppo di docenti appassionati e motivati, uniti dalla volontà di tras
 
 Il nostro obiettivo è creare una didattica **innovativa**, che spinga gli studenti a esplorare, sperimentare e mettersi alla prova in modo attivo. Utilizziamo metodologie moderne e interattive per far sì che l'insegnamento non sia solo un trasferimento di conoscenze, ma un processo dinamico e partecipativo.
 
-Con questo blog, vogliamo condividere le nostre idee, esperimenti e risorse, offrendo spunti per insegnanti che desiderano fare un salto qualitativo nella loro pratica didattica. Crediamo che ogni lezione debba essere un'opportunità per **ispirare**, **coinvolgere** e **stimolare** gli studenti, senza mai dimenticare che l'apprendimento deve essere, prima di tutto, divertente!
+Crediamo che ogni lezione debba essere un'opportunità per **ispirare**, **coinvolgere** e **stimolare** gli studenti, senza mai dimenticare che l'apprendimento deve essere, prima di tutto, divertente!
 
 Unisciti a noi in questo viaggio verso una didattica che non stanca, ma che accende la voglia di imparare!
+
+
+![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
