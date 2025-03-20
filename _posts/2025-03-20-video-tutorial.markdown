@@ -11,8 +11,6 @@ I video di SpiderCode sono pensati per semplificare l'apprendimento della progra
 
 ## Programma
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
 Una panoramica su gli argomenti trattati:
 
 1. Introduzione alla Programmazione
@@ -51,6 +49,4 @@ Blockchain e criptovalute
 Internet delle cose (IoT)
 Realtà virtuale e aumentata
 
-
-
-
+![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
