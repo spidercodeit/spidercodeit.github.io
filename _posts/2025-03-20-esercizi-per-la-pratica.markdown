@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esercizi per gli studenti
-date: 2025-03-20 00:00:00 +0300
+date: 2025-03-19 00:00:00 +0300
 description: Dopo aver visto un video educativo, è essenziale consolidare le conoscenze acquisite attraverso esercizi pratici. # Add post description (optional)
 img: immagineesercizi.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
