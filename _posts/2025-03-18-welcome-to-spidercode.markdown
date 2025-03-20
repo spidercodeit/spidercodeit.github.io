@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to SpderCode"
-date: 2025-03-15 13:32:20 +0300
+date: 2025-03-18 13:32:20 +0300
 description: Benvenuto su SpiderCode, lo spazio dove la passione per l’informatica prende vita! 🚀 # Add post description (optional)
 img: logospider.png # Add image post (optional)
 ---
