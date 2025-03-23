@@ -1,0 +1,22 @@
+---
+layout: post
+title: Chi siamo
+date: 2025-03-17 14:32:20 +0300
+description: Siamo un gruppo di docenti appassionati e motivati, uniti dalla volontà di trasformare l'approccio tradizionale all'insegnamento in un'esperienza coinvolgente, stimolante e, soprattutto, divertente. # Add post description (optional)
+img: docenti.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Chi siamo, Docenti] # add tag
+---
+
+**Chi siamo**
+
+Siamo un gruppo di docenti appassionati e motivati, uniti dalla volontà di trasformare l'approccio tradizionale all'insegnamento in un'esperienza coinvolgente, stimolante e, soprattutto, divertente. Crediamo fermamente che l'apprendimento non debba essere noioso o stancante, ma un'avventura entusiasmante che risveglia la curiosità e la passione degli studenti.
+
+Il nostro obiettivo è creare una didattica **innovativa**, che spinga gli studenti a esplorare, sperimentare e mettersi alla prova in modo attivo. Utilizziamo metodologie moderne e interattive per far sì che l'insegnamento non sia solo un trasferimento di conoscenze, ma un processo dinamico e partecipativo.
+
+Crediamo che ogni lezione debba essere un'opportunità per **ispirare**, **coinvolgere** e **stimolare** gli studenti, senza mai dimenticare che l'apprendimento deve essere, prima di tutto, divertente!
+
+Unisciti a noi in questo viaggio verso una didattica che non stanca, ma che accende la voglia di imparare!
+
+
+![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
