@@ -67,10 +67,6 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-  body {
-    padding-top: env(safe-area-inset-top); /* Aggiunge uno spazio sopra per evitare la sovrapposizione con la notch */
-    background-color: #f0f0f0; /* Colore di sfondo personalizzato, se necessario */
-  }
   .content-box {
     padding: 10px;
   }
