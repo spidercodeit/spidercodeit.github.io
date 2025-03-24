@@ -21,7 +21,7 @@ html {
  * Remove the margin in all browsers (opinionated).
  */
 body {
-  margin: -20px;
+  margin: 0px;
 }
 
 /**
@@ -1453,6 +1453,9 @@ a.newer-posts:hover {
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
+  body {
+    background-color: #f0f0f0; /* Cambia il colore del corpo qui */
+  }
   .content-box {
     padding: 10px;
   }
