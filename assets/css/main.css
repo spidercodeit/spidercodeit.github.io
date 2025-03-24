@@ -973,13 +973,13 @@ table tfoot td {
 /* Media Queries per dispositivi mobili */
 @media (max-width: 768px) {
   .about .cover-author-image {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
   }
 
   .about img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 140px;
+    max-height: 140px;
   }
 }
 
