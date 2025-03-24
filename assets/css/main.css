@@ -970,6 +970,31 @@ table tfoot td {
           transform: scale3d(0.9, 0.9, 1);
 }
 
+/* Media Queries per dispositivi mobili */
+@media (max-width: 768px) {
+  .about .cover-author-image {
+    width: 120px;
+    height: 120px;
+  }
+
+  .about img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about .cover-author-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .about img {
+    max-width: 90px;
+    max-height: 90px;
+  }
+}
+
 .about .author-name {
   font-family: 'PT Serif', serif;
   margin: 0 0 10px;
